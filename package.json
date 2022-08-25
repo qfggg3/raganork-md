@@ -1,7 +1,7 @@
 {
   "name": "raganork-md", 
-  "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "version": "3.0.",
+  "description": "yami whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "احمد",
+  "developer": "ايانوكوجي",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
